@@ -22,11 +22,13 @@ You can also find me on:
 <img src="https://media3.giphy.com/media/l3V0dy1zzyjbYTQQM/giphy.gif?cid=ecf05e47g3ss2allhea840xefzqzvqm1wc7cm8hwpurdac1n&rid=giphy.gif&ct=g" alt="dev_object" align="right" width="400" />
 
 <br/>
+<br/>
 
 * I am a Full Stack Developer.
 * A person in love with animations, I always try to be connected with the world of creativity.
 * Currently, I am following a path in search of new learning experiences and knowledge within the world of programming, always open to any new challenges.
 
+<br/>
 <br/>
 
 ## Languages and Tools I have used <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
