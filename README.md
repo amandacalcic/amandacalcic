@@ -26,7 +26,7 @@ You can also find me on:
 
 * I am a Full Stack Developer.
 * A person in love with animations, I always try to be connected with the world of creativity.
-* Currently, I am following a path in search of new learning experiences and knowledge within the world of programming, always open to any new challenges.
+* Currently, I am following a path in search of new learning experiences and knowledge within the world of programming, always open to any new challenge.
 
 <br/>
 <br/>
