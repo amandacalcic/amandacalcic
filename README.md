@@ -6,14 +6,8 @@ You can also find me on:
 	<a href="https://www.linkedin.com/in/amanda-calcic/">
 		<img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="30px" />
 	</a>
-  <a href="https://www.instagram.com/amandacalcic/">
+ 	<a href="https://www.instagram.com/amandacalcic/">
 		<img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram" width="30px" />
-	</a>
-  <a href="https://open.spotify.com/user/amandacalcic">
-		<img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify" width="30px" />
-	</a>
-  <a href="https://www.pinterest.fr/amandacalcic/">
-		<img src="https://img.icons8.com/color/96/000000/pinterest--v1.png" alt="pinterest" width="30px" />
 	</a>
 </p>
 
