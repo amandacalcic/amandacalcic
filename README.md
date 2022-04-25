@@ -16,19 +16,29 @@ You can also find me on:
 <img src="https://media3.giphy.com/media/l3V0dy1zzyjbYTQQM/giphy.gif?cid=ecf05e47g3ss2allhea840xefzqzvqm1wc7cm8hwpurdac1n&rid=giphy.gif&ct=g" alt="dev_object" align="right" width="400" />
 
 <br/>
-<br/>
 
-* I am a Full Stack Developer.
+* I'm a iOS Developer.
 * A person in love with animations, I always try to be connected with the world of creativity.
-* Currently, I am following a path in search of new learning experiences and knowledge within the world of programming, always open to any new challenge.
+* I'm always looking for new learning experiences and knowledge within the world of programming.
+* And I'm always open to any new challenge.
+
+#### My career:
+
+* iOS Developer (January/2022 - Current)
+* Full Stack Developer (August/2017 - January/2022)
 
 <br/>
-<br/>
 
-## Languages and Tools I have used <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+## Languages and Tools I'm currently working with <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <p align="">
-  
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="swift">
+  <img src="https://img.shields.io/badge/cocoapods-FA2A02?style=for-the-badge&logo=cocoapods&logoColor=white" alt="cocapods">
+</p>
+
+## Languages and Tools I have used
+
+<p align="">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css">    
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="ts">
@@ -52,3 +62,4 @@ You can also find me on:
 <!-- Credit -->
 ### Credit to 
 - [**GIPHY**](https://giphy.com/) for GIFs. 
+- [**Badges**](https://github.com/alexandresanlim/Badges4-README.md-Profile) alexandresanlim. 
